@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Asystent/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Asystent/static/js/main.02967b4e.chunk.js",
-    "main.js.map": "/Asystent/static/js/main.02967b4e.chunk.js.map",
+    "main.js": "/Asystent/static/js/main.6da7abda.chunk.js",
+    "main.js.map": "/Asystent/static/js/main.6da7abda.chunk.js.map",
     "runtime-main.js": "/Asystent/static/js/runtime-main.5baa15e7.js",
     "runtime-main.js.map": "/Asystent/static/js/runtime-main.5baa15e7.js.map",
     "static/js/2.b02a8fe5.chunk.js": "/Asystent/static/js/2.b02a8fe5.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.80bf2deb.chunk.js.map": "/Asystent/static/js/3.80bf2deb.chunk.js.map",
     "index.html": "/Asystent/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/Asystent/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b02a8fe5.chunk.js.LICENSE.txt": "/Asystent/static/js/2.b02a8fe5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Asystent/static/media/logo.6ce24c58.svg"
+    "static/js/2.b02a8fe5.chunk.js.LICENSE.txt": "/Asystent/static/js/2.b02a8fe5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5baa15e7.js",
     "static/js/2.b02a8fe5.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.02967b4e.chunk.js"
+    "static/js/main.6da7abda.chunk.js"
   ]
 }
